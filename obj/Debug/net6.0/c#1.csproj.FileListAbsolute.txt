@@ -1,0 +1,15 @@
+/home/alexandre/Documentos/Unimed/c#1/bin/Debug/net6.0/c#1
+/home/alexandre/Documentos/Unimed/c#1/bin/Debug/net6.0/c#1.deps.json
+/home/alexandre/Documentos/Unimed/c#1/bin/Debug/net6.0/c#1.runtimeconfig.json
+/home/alexandre/Documentos/Unimed/c#1/bin/Debug/net6.0/c#1.dll
+/home/alexandre/Documentos/Unimed/c#1/bin/Debug/net6.0/c#1.pdb
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/c#1.csproj.AssemblyReference.cache
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/c#1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/c#1.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/c#1.AssemblyInfo.cs
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/c#1.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/c#1.dll
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/refint/c#1.dll
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/c#1.pdb
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/c#1.genruntimeconfig.cache
+/home/alexandre/Documentos/Unimed/c#1/obj/Debug/net6.0/ref/c#1.dll
